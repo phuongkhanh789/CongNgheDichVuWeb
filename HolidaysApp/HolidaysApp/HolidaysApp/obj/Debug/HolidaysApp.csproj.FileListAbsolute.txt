@@ -1,0 +1,17 @@
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\HolidaysApp.exe.config
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\HolidaysApp.exe
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\HolidaysApp.pdb
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\BUS.dll
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\DTO.dll
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\DAL.dll
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\BUS.pdb
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\DTO.pdb
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\bin\Debug\DAL.pdb
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\obj\Debug\HolidaysApp.csproj.AssemblyReference.cache
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\obj\Debug\HolidaysApp.HolidaysForm.resources
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\obj\Debug\HolidaysApp.Properties.Resources.resources
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\obj\Debug\HolidaysApp.csproj.GenerateResource.cache
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\obj\Debug\HolidaysApp.csproj.CoreCompileInputs.cache
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\obj\Debug\HolidaysApp.csproj.CopyComplete
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\obj\Debug\HolidaysApp.exe
+C:\Users\Congnghe\source\repos\HolidaysApp\HolidaysApp\obj\Debug\HolidaysApp.pdb

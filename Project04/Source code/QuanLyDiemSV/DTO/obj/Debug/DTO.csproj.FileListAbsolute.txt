@@ -1,0 +1,6 @@
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\DTO\bin\Debug\DTO.dll
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\DTO\bin\Debug\DTO.pdb
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\DTO\obj\Debug\DTO.dll
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\DTO\obj\Debug\DTO.pdb

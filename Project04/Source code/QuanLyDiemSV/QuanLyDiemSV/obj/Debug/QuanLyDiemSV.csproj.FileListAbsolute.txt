@@ -1,0 +1,9 @@
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\bin\Debug\QuanLyDiemSV.exe.config
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\bin\Debug\QuanLyDiemSV.exe
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\bin\Debug\QuanLyDiemSV.pdb
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\obj\Debug\QuanLyDiemSV.csproj.AssemblyReference.cache
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\obj\Debug\QuanLyDiemSV.Properties.Resources.resources
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\obj\Debug\QuanLyDiemSV.csproj.GenerateResource.cache
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\obj\Debug\QuanLyDiemSV.csproj.CoreCompileInputs.cache
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\obj\Debug\QuanLyDiemSV.exe
+C:\Users\Congnghe\Desktop\Project04\Source code\QuanLyDiemSV\QuanLyDiemSV\obj\Debug\QuanLyDiemSV.pdb

@@ -1,0 +1,12 @@
+D:\22005307\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe.config
+D:\22005307\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe
+D:\22005307\OrdersApp\OrdersApp\bin\Debug\OrdersApp.pdb
+D:\22005307\OrdersApp\OrdersApp\bin\Debug\Newtonsoft.Json.dll
+D:\22005307\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.AssemblyReference.cache
+D:\22005307\OrdersApp\OrdersApp\obj\Debug\OrdersApp.OrdersForm.resources
+D:\22005307\OrdersApp\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+D:\22005307\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+D:\22005307\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+D:\22005307\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.CopyComplete
+D:\22005307\OrdersApp\OrdersApp\obj\Debug\OrdersApp.exe
+D:\22005307\OrdersApp\OrdersApp\obj\Debug\OrdersApp.pdb
